@@ -1,1 +1,27 @@
+img{
+  max-width: 300px;
+  max-height: 100px;
 
+}
+
+h1{
+  font-family: 'Permanent Marker', cursive;
+  color: blue;
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: navy;
+}
+
+body{
+  background-image: url(https://wonderopolis.org/wp-content/uploads//2013/08/cold-bottle-of-water-sitting-in-sand-duneshutterstock_13378444-Custom.jpg)
+  background-image-size: 1000px;
+}
+
+h3{
+font-family: 'Work Sans', sans-serif;
+text-align: center;
+text-underline-position: below;
+}
