@@ -1,1 +1,1 @@
-# BetaWaterGame
+# BetaWaterProject.org
