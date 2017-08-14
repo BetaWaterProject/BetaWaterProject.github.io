@@ -1,1 +1,2 @@
-"# BetaWaterGame" 
+# BetaWaterGame.github.io
+Non-profit organization
