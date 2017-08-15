@@ -1,12 +1,13 @@
-img{
+#logo{
   max-width: 300px;
   max-height: 100px;
+
 
 }
 
 h1{
   font-family: 'Permanent Marker', cursive;
-  color: blue;
+  color: navy;
 }
 
 h2{
@@ -15,13 +16,63 @@ h2{
   color: navy;
 }
 
+h4{
+  text-align: center;
+}
+
 body{
-  background-image: url(https://wonderopolis.org/wp-content/uploads//2013/08/cold-bottle-of-water-sitting-in-sand-duneshutterstock_13378444-Custom.jpg)
-  background-image-size: 1000px;
+  background-color: #fff5e6;
+  background-size: cover;
+  position: absolute; top:0; left: 0;
+   width: 100%;
+   height: auto;
 }
 
 h3{
 font-family: 'Work Sans', sans-serif;
 text-align: center;
 text-underline-position: below;
+color: black;
+}
+
+p{
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-family: 'Montserrat', sans-serif;
+  color: navy;
+}
+
+#button{
+  /*background-color: grey;*/
+  color: navy;
+  text-align: center;
+  margin-left: 0px;
+  float: center;
+  font-family: 'Work Sans', sans-serif;
+  border-color: black;
+  border-width: thin;
+
+}
+
+#map{
+  margin-left: 200px;
+  margin-right: 200px;
+  max-width: none;
+  max-height: none;
+  min-height: 200px;
+}
+img{
+  max-width: 500px;
+  text-align: center;
+}
+
+#man{
+  text-align: center;
+  margin-left: 75px;
+}
+
+#women{
+  text-align: right;
+  margin-left: 75px;
 }
